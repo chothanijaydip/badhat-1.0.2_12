@@ -1,0 +1,56 @@
+name: badhat_b2b
+description: B2B ecommerce
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.2+12
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  cupertino_icons: ^1.0.2
+
+  flutter_multiselect: ^0.5.0
+  dio: ^3.0.10
+  image_picker: ^0.6.7+20
+  path_provider: ^1.6.27
+  cached_network_image: ^2.5.0
+  shared_preferences: ^0.5.8
+  image_cropper: ^1.2.3
+  flutter_phone_direct_caller: ^1.0.1
+  share: ^0.6.5+4
+  uni_links: ^0.4.0
+  firebase_messaging: ^7.0.3
+  bottom_navigation_badge: ^1.0.3
+  flutter_local_notifications: ^3.0.2
+  rxdart: ^0.25.0
+  pin_entry_text_field: ^0.1.4
+  flushbar: ^1.10.4
+  font_awesome_flutter: ^8.11.0
+  package_info: ^0.4.3+2
+  url_launcher: ^5.7.10
+
+  truecaller_sdk: ^0.0.3
+  sms_autofill: ^1.2.7
+  flutter_banner_swiper: ^0.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
