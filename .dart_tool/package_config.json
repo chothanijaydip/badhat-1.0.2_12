@@ -1,0 +1,728 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-12.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/analyzer-0.40.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "archive",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/archive-2.0.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/args-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/async-2.5.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "bottom_navigation_badge",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/bottom_navigation_badge-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "cached_network_image",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/cached_network_image-2.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0-nullsafety.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/charcode-1.2.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/cli_util-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0-nullsafety.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.17"
+    },
+    {
+      "name": "coverage",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/coverage-0.14.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dio",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/dio-3.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/ffi-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/file-6.0.0-nullsafety.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "firebase_messaging",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-7.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "flushbar",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/flushbar-1.10.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/jaydip/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_banner_swiper",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/flutter_banner_swiper-0.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_blurhash",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/flutter_blurhash-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "flutter_cache_manager",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "flutter_driver",
+      "rootUri": "file:///Users/jaydip/flutter/packages/flutter_driver",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_local_notifications",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "flutter_local_notifications_platform_interface",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications_platform_interface-2.0.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_multiselect",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/flutter_multiselect-0.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_phone_direct_caller",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/flutter_phone_direct_caller-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///Users/jaydip/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/jaydip/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "font_awesome_flutter",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/font_awesome_flutter-8.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "fuchsia_remote_debug_protocol",
+      "rootUri": "file:///Users/jaydip/flutter/packages/fuchsia_remote_debug_protocol",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/glob-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/http-0.12.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/image-2.1.19",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "image_cropper",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.20"
+    },
+    {
+      "name": "image_picker",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+21",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "image_picker_platform_interface",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/image_picker_platform_interface-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "integration_test",
+      "rootUri": "file:///Users/jaydip/flutter/packages/integration_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "io",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/io-0.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/js-0.6.3-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "json_rpc_2",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/json_rpc_2-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/logging-0.11.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0-nullsafety.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/mime-0.9.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "node_interop",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/node_interop-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "node_io",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/node_io-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "octo_image",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/octo_image-0.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/package_config-1.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "package_info",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.3+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/path-1.8.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.27",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_macos",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+8",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/pedantic-1.10.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/petitparser-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "pin_entry_text_field",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/pin_entry_text_field-0.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "pin_input_text_field",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/pin_input_text_field-3.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/platform-3.0.0-nullsafety.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/pool-1.5.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "process",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/process-4.0.0-nullsafety.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/pub_semver-1.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/quiver-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/rxdart-0.25.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "share",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/share-0.6.5+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_macos",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+11",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-0.0.1+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/jaydip/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sms_autofill",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/sms_autofill-1.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "source_map_stack_trace",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/source_map_stack_trace-2.1.0-nullsafety.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_maps",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/source_maps-0.10.10-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.0-nullsafety.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sqflite",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/sqflite_common-1.0.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0-nullsafety.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sync_http",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/sync_http-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/synchronized-2.2.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.19-nullsafety.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_core",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/test_core-0.3.12-nullsafety.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "timezone",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/timezone-0.5.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "truecaller_sdk",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/truecaller_sdk-0.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0-nullsafety.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "uni_links",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/uni_links-0.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-0.0.1+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.5+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-0.0.1+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/uuid-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0-nullsafety.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/vm_service-5.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/watcher-0.9.7+15",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "web_socket_channel",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "webdriver",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/webdriver-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/win32-1.7.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/xml-4.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/jaydip/.pub-cache/hosted/pub.dartlang.org/yaml-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "badhat_b2b",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2021-02-16T15:14:27.354201Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.0-224.0.dev"
+}
